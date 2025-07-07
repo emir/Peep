@@ -1,4 +1,4 @@
-# Email Sender Scanner
+# Peep
 
 A Go tool that scans your email inbox via IMAP and extracts sender information (names and email addresses) into a SQLite database. Perfect for building contact lists, analyzing your email patterns, or cleaning up your contacts.
 
